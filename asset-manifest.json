@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/meteostats/static/css/main.97223124.css",
-    "main.js": "/meteostats/static/js/main.42f93d10.js",
-    "static/js/488.e0810949.chunk.js": "/meteostats/static/js/488.e0810949.chunk.js",
-    "index.html": "/meteostats/index.html",
-    "main.97223124.css.map": "/meteostats/static/css/main.97223124.css.map",
-    "main.42f93d10.js.map": "/meteostats/static/js/main.42f93d10.js.map",
-    "488.e0810949.chunk.js.map": "/meteostats/static/js/488.e0810949.chunk.js.map"
+    "main.css": "/meteoStats/static/css/main.97223124.css",
+    "main.js": "/meteoStats/static/js/main.e3dd53bb.js",
+    "static/js/488.e0810949.chunk.js": "/meteoStats/static/js/488.e0810949.chunk.js",
+    "index.html": "/meteoStats/index.html",
+    "main.97223124.css.map": "/meteoStats/static/css/main.97223124.css.map",
+    "main.e3dd53bb.js.map": "/meteoStats/static/js/main.e3dd53bb.js.map",
+    "488.e0810949.chunk.js.map": "/meteoStats/static/js/488.e0810949.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97223124.css",
-    "static/js/main.42f93d10.js"
+    "static/js/main.e3dd53bb.js"
   ]
 }
